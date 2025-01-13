@@ -81,11 +81,11 @@
         }
 
         .apps-icon:hover .apps-dropdown {
-            
+            background-color: white;
             visibility: visible;
             opacity: 1;
         }
-
+        
         .app {
             display: flex;
             align-items: center;
@@ -108,10 +108,12 @@
             align-items: center;
             justify-content: center;
             margin-right: 10px;
+            margin-top: 10px;
+            margin-bottom: 10px;
         }
 
         .app-icon img{
-            height: 20px;;
+            height: 20px;
         }
         /* Account Icon and Dropdown */
         .account-icon {
