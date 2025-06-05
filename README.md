@@ -17,12 +17,11 @@ A clean and responsive **Google Search homepage clone** built using **HTML and C
 ---
 
 ## 🛠️ Tech Stack
-
 - **HTML5** – for structuring the page
 - **CSS3** – for styling and responsiveness
 - *(No JavaScript used in this version)*
 
 ---
 
-## 
+
 
