@@ -7,7 +7,6 @@ A clean and responsive **Google Search homepage clone** built using **HTML and C
 ---
 
 ## ✨ Features
-
 - 🖥️ Google-style layout and design
 - 🔍 Central search input field
 - 🎯 "Google Search" and "I'm Feeling Lucky" buttons
