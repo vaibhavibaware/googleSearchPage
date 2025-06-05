@@ -1,5 +1,4 @@
 # 🔍 Google Search Page Clone
-
 A clean and responsive **Google Search homepage clone** built using **HTML and CSS**. This project replicates the visual structure and design of the original Google search landing page, focusing on layout and aesthetics.
 
 🔗 **Live Demo:** [https://vaibhavibaware.github.io/googleSearchPage/](https://vaibhavibaware.github.io/googleSearchPage/)
