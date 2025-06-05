@@ -24,6 +24,5 @@ A clean and responsive **Google Search homepage clone** built using **HTML and C
 
 ---
 
-## 📁 Project Structure
-
+## 
 
